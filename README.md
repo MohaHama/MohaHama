@@ -1,5 +1,5 @@
 # 💫 Hi there, I'm Mohammed Hamarash 👋
-🎓 I’m a Software Engineering student at SDU Odense (Denmark).<br>💻 I enjoy building mobile apps, desktop apps, and web applications.<br>🛠️ My main tech stack includes: HTML, CSS, JavaScript, React, React Native, C#, and PostgreSQL.<br>🌱 Right now I’m focused on learning and developing software nonstop!<br>
+🎓 I’m a Software Engineering student at SDU Odense (Denmark).<br>💻 I enjoy building mobile apps, desktop apps, and web applications.<br>🛠️ My main tech stack includes: HTML, CSS, JavaScript, React, React Native, C#, and PostgreSQL.<br>
 
 
 ## 🌐 Socials:
